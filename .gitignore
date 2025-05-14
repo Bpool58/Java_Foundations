@@ -1,0 +1,37 @@
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+gen/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.swp
+*.bak
+*.tmp
+
+# YAML and XML files
+*.yaml
+*.yml
+*.xml
